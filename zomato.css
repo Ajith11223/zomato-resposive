@@ -1,0 +1,21 @@
+
+img.slide{
+    height: 800px;
+
+}
+.head{
+    margin-left: 0px;
+    margin-top: 0px;
+}
+.container{
+    background-color: red;
+}
+.bck{
+    background-color: red;
+}
+
+
+* { 
+      max-width: 100%; 
+       overflow-x: hidden; 
+   }
